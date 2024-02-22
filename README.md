@@ -19,4 +19,5 @@ AI School 9기 데이터톤
 - Train : 73,257
 - Test : 26,032
 - Test set의 20%를 validation에 사용
+
 ![svhn](https://github.com/Seongjin1225/AI_SCHOOL_9_DataTon/assets/114036940/68b17cb2-87e7-4216-852e-010b8a6dd476)
