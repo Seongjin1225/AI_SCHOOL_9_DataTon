@@ -21,3 +21,9 @@ AI School 9기 데이터톤
 - Test set의 20%를 validation에 사용
 
 ![svhn](https://github.com/Seongjin1225/AI_SCHOOL_9_DataTon/assets/114036940/68b17cb2-87e7-4216-852e-010b8a6dd476)
+
+# 기반 모델(DenseNet)
+![densenet](https://github.com/Seongjin1225/AI_SCHOOL_9_DataTon/assets/114036940/212828c0-16ec-409d-95df-627b35d4e247)
+- DenseNet은 모든 레이에의 feature map을 연결한다는 특징 존재
+- 즉, 이전 레이어의 featur map 그 이후의 모든 레이어의 featrue map에 연결
+- 파라미터 수와 연산량이 적다는 장점 존재
